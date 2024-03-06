@@ -249,21 +249,7 @@ img{
 .about__social-icon:hover{
     color: var(--first-color);
 }
-.download-button {
-  display: inline-block;
-  background-color: #3498db;
-  color: #fff;
-  text-decoration: none;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-weight: bold;
-  text-align: center;
-}
-.download-button:hover {
-  background-color: #2980b9;
-}
+
 /*SKILLS*/
 .skills__container{
     row-gap: 2rem;
